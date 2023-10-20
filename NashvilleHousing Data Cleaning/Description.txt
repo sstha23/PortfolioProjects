@@ -1,0 +1,3 @@
+This project was done in SQL and I have used Nashville Housing Data for Data Cleaning.
+Performed data cleaning operation in the dataset such as Standarise Date format, spliting the Address colum into individual colums (eg. Street name, city and state), handling missing data, removing duplicates, deleting unused colums, etc.
+Finally, used the dataset  for analysis and visualization in the BI tool.
