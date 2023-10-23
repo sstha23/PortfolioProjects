@@ -1,0 +1,1 @@
+Downloaded the dataset from OurWorldinData.Org and made two excel files CovidDeaths and Covidvaccinations which is then imported in SQL as two different tables.
