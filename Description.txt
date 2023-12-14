@@ -1,0 +1,11 @@
+Started this Portfolio project with Alex The Analyst whom I have been following for last couple of year now.
+This is a part of Data Analyst Bootcamp!! And the most amazing thing is it is completley free and available for everyone in YouTube.
+He set up a playlist called "Data Analyst Bootcamp" on his YT channel after mockingly posting something on LinkedIn as a Satire but the response was enormous. As a result he decided to do it, thanks to him.
+This Portfolio Porject includes all of the basics in SQL, Excel, Tableau, Power BI, Python, and more. All accompained by PROJECT which is great.
+
+Below is the skill I have learned in this bootcamp:
+- Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
+- Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, Python programming, Tableau) 
+- Understand how to clean and organise data for analysis, and complete analysis and calculations using spreadsheets, SQL and Python programming
+- Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms
+ 
