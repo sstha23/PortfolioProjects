@@ -1,13 +1,59 @@
 Started this Portfolio project with Alex The Analyst whom I have been following for last couple of year now.
-This is a part of Data Analyst Bootcamp!! And the most amazing thing is it is completley free and available for everyone in YouTube.
-He set up a playlist called "Data Analyst Bootcamp" on his YT channel after mockingly posting something on LinkedIn as a Satire but the response was enormous. As a result he decided to do it, thanks to him.
-This Portfolio Porject includes all of the basics in SQL, Excel, Tableau, Power BI, Python, and more. All accompained by PROJECT which is great.
+This is a part of Data Analyst Bootcamp!! And the most amazing thing is it is completely free and available for everyone in YouTube.
+He set up a playlist called "Data Analyst Bootcamp" on his YT channel after mockingly posting something on LinkedIn as a Satire but the response was enormous. As a result, he decided to do it, thanks to him.
+This Portfolio project includes all of the basics in   SQL, Excel, Tableau, Power BI, Python, and more. All accompanied by a great PROJECT.
 
-Tableu - Did a full project of AirBnB dataset and created a Dashboard of 2016 data set.
-
-Below is the skill I have learned in this bootcamp:
+Below are the skills I have learned in this boot camp:
 - Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
 - Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, Python programming, Tableau) 
-- Understand how to clean and organise data for analysis, and complete analysis and calculations using spreadsheets, SQL and Python programming
+- Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and Python programming
 - Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms
+
+#SQL - SELECT statement, WHERE clause, GROUP BY + ORDER BY, HAVING Vs WHERE, Limi + Aliasing, JOINS (self, left, right, inner, cross), UNIONS, STRING, CASE STATEMENTS
+SUB-QUERIS, WINDOW functions, CTEs, TEMP tables, Stored Procedures.
+Did a full Data cleaning project and data exploration project in SQL (NashvilleHousing Data Cleaning and Covid_Numbers Data exploration).
+	- Removing Duplicates
+	- Standardizing Data
+	- Null/Blank Values
+	- Remove Unnecessary Columns/Rows
+
+#Excel for Data Analysis:
+	- Pivot Tables, Formulas, VLOOKUP, XLOOKUP, CONDITIONAL FORMATTING, CHARTS
+	- Cleaning Data in Excel
+	- completed a Data cleaning process and dashboard creation in Excel. [Bike Sales in Europe]
+	
+
+#Tableau:
+	- Create Visualisations
+	- Calculated Fields and Bins
+	- How to use Join in Tableu
+	- I did a full project on the Airbnb dataset and created a dashboard of the 2016 data set.
+
+#PowerBI:
+	- Power Query
+	- Create and Manage relationships
+	- DAX in Power BI
+	- Drill Down, Conditional Formatting
+	- Bins and Lists
+	- Full Guided PowerBI Project (Data Professional Survey Breakdown)
+
+#Python
+- installing Jupyter Notebooks/Anaconda
+- Variables, data types, comparison, logical, membership operators, if, Elif, else statements, For Loops, While loop,
+- functions, converting data types,
+- Project: Building BMI calculator, An Automate File sorter in file explore
+- Inspecting Web pages with HTML, BeautifulSoup + Requests | Find and Find_All | - web scraping
+- Web Scraping from real website + Pandas. [List of largest companies in USA]
+
+#Pandas
+- Reading in Files
+- Filtering Column and Rows
+- Merging DataFrames in Pandas - Merge, Join, and Concatenate
+- Creating Visualizing Data in Pandas
+- Data Cleaning in Pandas - lstrip, rstrip, strip, replace, split,fillna
+- Exploratory Data Analysis in Pandas - info(), describe(), nUnique(), plot(), transpose(), boxplot(), dtypes()
+- Amazon Web Scraping Using Python - Used Amazon website to create the dataset by web scraping, getting the information, and saving it in a CSV file.
+- Automating Crypto Website API Pull Using Python - pulled crypto data, saved the data in CSV. automated, cleaned and visualized it. 
  
+#How to create a Portfolio Website 
+- Created a portfolio website. Used GitHub Pages and Visual Studio Code. Downloaded a webpage template[MASSIVELY] from HTML5UP (html5up.net). Build the website, deployed & hosted the website on GitHub pages.
