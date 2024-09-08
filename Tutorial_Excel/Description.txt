@@ -1,9 +1,0 @@
-This is a Bike Store Sales in Europe dataset downloaded from Kaggle.com [SalesWithPivotTables.xlsx]
-I have used this dataset and created Pivot table to analyse the sales by country and drill down by each state. Also, sorted the data by largest to smallest.
-A calculatedField named CalculatedFieldForProfit is created to double check the actual profit to verify the numbers.
-I have used Customer_Gender column as a filter to filter it by gender 'M' and/or 'F'.
-
-In 2nd Pivot, I have used the date information to analyse what year the store performed it's best for each country with our sale. 
-We can quickly glance and analyse the sales performance of each year for all countries.
-
-I was able to create really useful pivot tables that anybody can look at and understand the data. 
